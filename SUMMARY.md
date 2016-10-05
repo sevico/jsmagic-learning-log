@@ -6,3 +6,4 @@
 * [day 3](StudyJournal03.md)
 * [day 4](StudyJournal04.md)
 * [day 5](StudyJournal05.md)
+* [day 6](StudyJournal06.md)
